@@ -30,12 +30,12 @@ namespace QuestionThree
             Console.WriteLine("Enter Time");
             time = int.Parse(Console.ReadLine());
 
-            simple_interest = principal * rate * time;
-            //simple_interest = (principal * rate * time) / 100;
+            //simple_interest = principal * rate * time;
+            simple_interest = (principal * rate * time) / 100;
 
             Console.WriteLine("Result:->");
             Console.WriteLine("+++++++++");
-            Console.WriteLine(string.Format("The Simple interest with Principal of {0} and Rate of {1} in the Time span of {2} is {3}",principal,rate,time,simple_interest));
+            Console.WriteLine(string.Format("The Simple interest with Principal of {0} and Rate of {1}% in the Time span of {2} is {3}",principal,rate,time,simple_interest));
             Console.ReadKey();
 
 

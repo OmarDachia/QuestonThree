@@ -1,1 +1,6 @@
 c:\users\udachias\documents\visual studio 2012\Projects\QuestionThree\QuestionThree\bin\Debug\QuestionThree.exe.config
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionThree\QuestionThree\bin\Debug\QuestionThree.exe
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionThree\QuestionThree\bin\Debug\QuestionThree.pdb
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionThree\QuestionThree\obj\Debug\QuestionThree.csprojResolveAssemblyReference.cache
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionThree\QuestionThree\obj\Debug\QuestionThree.exe
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionThree\QuestionThree\obj\Debug\QuestionThree.pdb
